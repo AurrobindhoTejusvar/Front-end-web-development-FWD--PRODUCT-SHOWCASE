@@ -280,7 +280,7 @@ button:hover{
     flex-direction: column;
     text-align: center;
     padding: 0 20px;
-    font-size:large;
+    font-size:1.15rem;
 }
 
 #projects {
